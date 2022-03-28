@@ -1,0 +1,25 @@
+{
+  "name": "authors",
+  "version": "1.0.0",
+  "description": "Correction de l'exercice Backend Authors (SQL et MongoDB)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julie-desvaux/Konexio_Backend_Authors.git"
+  },
+  "author": "julie-desvaux",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/julie-desvaux/Konexio_Backend_Authors/issues"
+  },
+  "homepage": "https://github.com/julie-desvaux/Konexio_Backend_Authors#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.8",
+    "pg": "^8.7.3"
+  }
+}
